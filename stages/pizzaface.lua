@@ -80,6 +80,7 @@ function onSongStart()
     runTimer('BOAH',3)
 end
 function onCreatePost()
+    debugPrint('THE CONTROLS ARE [A, D, X, V, SPACE]')
     setProperty('gf.visible',false)
     setProperty('boyfriend.visible',false)
     scaleObject('dad',3,3)
