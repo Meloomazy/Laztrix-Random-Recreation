@@ -1,2 +1,4 @@
 # Laztrix Random Recreation
- so true
+
+
+this is just my dumb recreation of a thing from a game
