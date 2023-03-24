@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pep.png">
+<SubTexture name="pep idle0000" x="152" y="163" width="38" height="61" frameX="-27" frameY="-35" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0001" x="116" y="83" width="38" height="62" frameX="-27" frameY="-34" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0002" x="0" y="163" width="38" height="62" frameX="-27" frameY="-34" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0003" x="38" y="163" width="38" height="62" frameX="-27" frameY="-34" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0004" x="221" y="67" width="38" height="63" frameX="-27" frameY="-33" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0005" x="167" y="79" width="38" height="63" frameX="-27" frameY="-33" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0006" x="221" y="67" width="38" height="63" frameX="-27" frameY="-33" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0007" x="76" y="163" width="38" height="62" frameX="-27" frameY="-34" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0008" x="114" y="163" width="38" height="62" frameX="-27" frameY="-34" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0009" x="278" y="61" width="37" height="60" frameX="-28" frameY="-36" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0010" x="0" y="225" width="38" height="59" frameX="-28" frameY="-37" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0011" x="193" y="225" width="39" height="58" frameX="-28" frameY="-38" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0012" x="232" y="225" width="37" height="57" frameX="-29" frameY="-39" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0013" x="0" y="284" width="39" height="55" frameX="-28" frameY="-41" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0014" x="232" y="225" width="37" height="57" frameX="-29" frameY="-39" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0015" x="193" y="225" width="39" height="58" frameX="-28" frameY="-38" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep idle0016" x="0" y="225" width="38" height="59" frameX="-28" frameY="-37" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep walk0000" x="190" y="163" width="60" height="61" frameX="-22" frameY="-33" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep walk0001" x="278" y="0" width="62" height="61" frameX="-21" frameY="-32" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep walk0002" x="269" y="225" width="54" height="56" frameX="-24" frameY="-40" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep walk0003" x="143" y="284" width="50" height="48" frameX="-26" frameY="-48" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep walk0004" x="340" y="46" width="54" height="45" frameX="-22" frameY="-51" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep walk0005" x="39" y="284" width="46" height="54" frameX="-28" frameY="-42" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep walk0006" x="38" y="225" width="47" height="59" frameX="-27" frameY="-33" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep walk0007" x="278" y="121" width="46" height="60" frameX="-26" frameY="-31" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep walk0008" x="85" y="225" width="45" height="59" frameX="-30" frameY="-37" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep walk0009" x="193" y="284" width="50" height="48" frameX="-26" frameY="-48" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep walk0010" x="340" y="91" width="54" height="45" frameX="-22" frameY="-51" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep walk0011" x="85" y="284" width="58" height="52" frameX="-22" frameY="-44" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep jump0000" x="243" y="284" width="52" height="46" frameX="-19" frameY="-50" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep jump0001" x="340" y="136" width="56" height="35" frameX="-19" frameY="-62" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep jump0002" x="0" y="339" width="68" height="29" frameX="-13" frameY="-68" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep jump0003" x="340" y="0" width="65" height="46" frameX="-15" frameY="-51" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep jump0004" x="130" y="225" width="63" height="59" frameX="-16" frameY="-38" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep jump0005" x="221" y="0" width="57" height="67" frameX="-21" frameY="-30" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep jump0006" x="167" y="0" width="54" height="79" frameX="-24" frameY="-17" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep jump0007" x="57" y="0" width="52" height="80" frameX="-25" frameY="-17" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep jump0008" x="0" y="0" width="57" height="83" frameX="-23" frameY="-17" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep fall0000" x="109" y="0" width="58" height="80" frameX="-21" frameY="-20" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep fall0001" x="0" y="83" width="57" height="80" frameX="-23" frameY="-20" frameWidth="100" frameHeight="100" />
+<SubTexture name="pep fall0002" x="57" y="83" width="59" height="80" frameX="-23" frameY="-20" frameWidth="100" frameHeight="100" />
+</TextureAtlas>

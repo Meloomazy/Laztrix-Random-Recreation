@@ -1,0 +1,31 @@
+{
+	"storyName": "stuff",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"difficulties": "Hard",
+	"freeplayColor": [
+		155,
+		212,
+		23
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Unexpectancy",
+			"mexe",
+			[
+				155,
+				212,
+				23
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "stuff"
+}

@@ -1,0 +1,211 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "pep idle0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "walk",
+			"indices": [],
+			"name": "pep walk0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "jump",
+			"indices": [],
+			"name": "pep jump"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "fall",
+			"indices": [],
+			"name": "pep fall"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "crouch",
+			"indices": [],
+			"name": "pep crouch"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idleC",
+			"indices": [
+				0,
+				1,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "pep idleC"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "walkC",
+			"indices": [],
+			"name": "pep walkC"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-70
+			],
+			"fps": 24,
+			"anim": "emote1",
+			"indices": [],
+			"name": "pep emote1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "emote2",
+			"indices": [],
+			"name": "pep emote2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"fps": 24,
+			"anim": "emote3",
+			"indices": [],
+			"name": "pep emote3"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-7
+			],
+			"fps": 24,
+			"anim": "emote4",
+			"indices": [],
+			"name": "pep emote4"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				80,
+				108
+			],
+			"fps": 24,
+			"anim": "emoteDance",
+			"indices": [],
+			"name": "pep emoteDance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,1,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,5,6
+			],
+			"fps": 24,
+			"anim": "dis1",
+			"loop": false,
+			"name": "pep disappoint10"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				4,
+				5,
+				6
+			],
+			"fps": 24,
+			"anim": "dis1back",
+			"loop": false,
+			"name": "pep disappoint10"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dis2",
+			"loop": false,
+			"name": "pep disappoint2"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "pep",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 3
+}

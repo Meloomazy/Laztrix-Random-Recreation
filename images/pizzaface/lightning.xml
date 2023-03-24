@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lightning.png">
+<SubTexture name="lightning bop0000" x="119" y="0" width="44" height="193" frameX="-11" frameY="0" frameWidth="68" frameHeight="379" />
+<SubTexture name="lightning bop0001" x="68" y="0" width="51" height="209" frameX="-6" frameY="0" frameWidth="68" frameHeight="379" />
+<SubTexture name="lightning bop0002" x="0" y="0" width="68" height="379" frameX="0" frameY="0" frameWidth="68" frameHeight="379" />
+</TextureAtlas>

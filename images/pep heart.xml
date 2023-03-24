@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pep heart.png">
+<SubTexture name="pep heart heart0000" x="0" y="116" width="45" height="28" frameX="-9" frameY="-18" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0001" x="0" y="0" width="41" height="29" frameX="-12" frameY="-17" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0002" x="41" y="0" width="39" height="29" frameX="-14" frameY="-17" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0003" x="0" y="29" width="35" height="29" frameX="-16" frameY="-17" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0004" x="118" y="29" width="30" height="28" frameX="-19" frameY="-17" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0005" x="118" y="57" width="32" height="28" frameX="-18" frameY="-17" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0006" x="35" y="29" width="35" height="29" frameX="-16" frameY="-17" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0007" x="80" y="0" width="38" height="29" frameX="-14" frameY="-17" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0008" x="0" y="58" width="39" height="29" frameX="-13" frameY="-17" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0009" x="45" y="116" width="43" height="28" frameX="-10" frameY="-18" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0010" x="88" y="116" width="45" height="28" frameX="-9" frameY="-18" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0011" x="39" y="58" width="41" height="29" frameX="-12" frameY="-17" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0012" x="0" y="87" width="39" height="29" frameX="-14" frameY="-17" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0013" x="80" y="29" width="35" height="29" frameX="-16" frameY="-17" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0014" x="118" y="85" width="30" height="28" frameX="-19" frameY="-17" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0015" x="80" y="58" width="35" height="29" frameX="-16" frameY="-17" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0016" x="39" y="87" width="37" height="29" frameX="-15" frameY="-17" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0017" x="76" y="87" width="39" height="29" frameX="-13" frameY="-17" frameWidth="64" frameHeight="64" />
+<SubTexture name="pep heart heart0018" x="118" y="0" width="42" height="29" frameX="-11" frameY="-17" frameWidth="64" frameHeight="64" />
+</TextureAtlas>
